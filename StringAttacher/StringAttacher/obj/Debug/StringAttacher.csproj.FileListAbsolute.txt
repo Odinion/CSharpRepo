@@ -1,0 +1,14 @@
+E:\project\StringAttacher\StringAttacher\bin\Debug\StringAttacher.exe.config
+C:\Users\Odin\Documents\GitHub\CSharpRepo\StringAttacher\StringAttacher\bin\Debug\StringAttacher.exe.config
+C:\Users\Odin\Documents\GitHub\CSharpRepo\StringAttacher\StringAttacher\bin\Debug\StringAttacher.exe
+C:\Users\Odin\Documents\GitHub\CSharpRepo\StringAttacher\StringAttacher\bin\Debug\StringAttacher.pdb
+C:\Users\Odin\Documents\GitHub\CSharpRepo\StringAttacher\StringAttacher\obj\Debug\StringAttacher.csprojResolveAssemblyReference.cache
+C:\Users\Odin\Documents\GitHub\CSharpRepo\StringAttacher\StringAttacher\obj\Debug\StringAttacher.Form1.resources
+C:\Users\Odin\Documents\GitHub\CSharpRepo\StringAttacher\StringAttacher\obj\Debug\StringAttacher.Properties.Resources.resources
+C:\Users\Odin\Documents\GitHub\CSharpRepo\StringAttacher\StringAttacher\obj\Debug\StringAttacher.csproj.GenerateResource.Cache
+C:\Users\Odin\Documents\GitHub\CSharpRepo\StringAttacher\StringAttacher\obj\Debug\StringAttacher.exe
+C:\Users\Odin\Documents\GitHub\CSharpRepo\StringAttacher\StringAttacher\obj\Debug\StringAttacher.pdb
+C:\Users\Odin\Documents\GitHub\CSharpRepo\StringAttacher\StringAttacher\bin\Debug\StringAttacher.exe.manifest
+C:\Users\Odin\Documents\GitHub\CSharpRepo\StringAttacher\StringAttacher\bin\Debug\StringAttacher.application
+C:\Users\Odin\Documents\GitHub\CSharpRepo\StringAttacher\StringAttacher\obj\Debug\StringAttacher.exe.manifest
+C:\Users\Odin\Documents\GitHub\CSharpRepo\StringAttacher\StringAttacher\obj\Debug\StringAttacher.application
